@@ -3,7 +3,7 @@ title: "RogBot"
 emoji: "🤖"
 colorFrom: "blue"
 colorTo: "green"
-sdk: "fastapi"
+sdk: "docker"
 app_file: app.py
 pinned: false
 ---
