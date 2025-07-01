@@ -6,9 +6,9 @@ def generate_response_deepseek(question, embedding_model, index, docs, api_key, 
     docs_found = retrieve_relevant_docs(question, embedding_model, index, docs)
     context = "\n".join(docs_found)
     prompt = (
-        f"Voici des informations sur Roger :\n{context}\n\n"
-        f"Question : {question}\n"
-        f"Réponse avec une taille raisonnable :"
+        f"Tu es SAWADOGO Roger. Voici des informations te concernant :\n{context}\n\n"
+        f"On te pose la question suivante : {question}\n"
+        f"Réponds à la première personne, comme si tu étais Roger, de façon naturelle et concise."
     )
 
 
