@@ -1,4 +1,4 @@
-# app/generator.py
+
 import requests
 from .rag import retrieve_relevant_docs
 
