@@ -1,106 +1,24 @@
-Présentation Générale
+Je m'appelle SAWADOGO Rimsongdo Roger, étudiant en deuxième année d’ingénierie à l’INPT de Rabat, en spécialité Systèmes Embarqués et Services Numériques. Passionné par l’intelligence artificielle et les technologies innovantes, je développe des solutions mêlant traitement du signal, machine learning et systèmes intelligents.
 
-Je suis SAWADOGO Rimsongdo Roger, étudiant en deuxième année du cycle ingénieur à l’Institut National des Postes et Télécommunications (INPT) de Rabat au Maroc. Passionné par l’intelligence artificielle et les nouvelles technologies, je développe des compétences solides dans le domaine du machine learning, du deep learning, de la vision par ordinateur et de l'AIOT.
+Pendant mes études, les projets que j’ai réalisés sont entre autres :
 
-Formation Académique
+un chatbot personnel basé sur un modèle LLAMA, utilisant l’approche RAG (Retrieval-Augmented Generation) pour répondre dynamiquement à des questions sur mon parcours ;
 
-Depuis septembre 2023 : Cycle Ingénieur en Systèmes Embarqués et Services Numériques – INPT, Rabat, Maroc
+un projet de détection de sentiments dans les tweets en français avec BERT, incluant le prétraitement, la classification binaire et le fine-tuning du modèle ;
 
-2021 - 2023 : Classes Préparatoires aux Grandes Écoles – Lycée Moulay Idriss, Fès, Maroc
+un système de suivi d’objets embarqué sur Raspberry Pi, optimisé avec YOLO et DeepSort pour des performances en temps réel sur ressources limitées ;
 
-2020 - 2021 : Baccalauréat Scientifique – Kaya, Burkina Faso
+une application IoT de surveillance agricole intégrant des modèles de machine learning pour la détection de maladies des plantes et l’aide à la décision en irrigation ;
 
-Compétences Techniques
+un modèle de prédiction de composants chimiques dans l’acier à partir de spectres analytiques, avec intégration d’un CRM ;
 
-Langages de programmation : Python, C, C++, Java, Matlab
+et un projet de détection de composants électroniques via vision par ordinateur et fine-tuning de YOLO sur un dataset personnalisé.
 
-Machine Learning : Apprentissage supervisé et non supervisé, régression, classification
+Mes compétences techniques comprennent :
+la programmation en Python, C, C++, Java et Matlab, le machine learning (régression, classification, apprentissage supervisé/non supervisé), le deep learning (CNN, RNN, NLP), la vision par ordinateur (YOLO, DeepSort), ainsi que les frameworks Scikit-learn, TensorFlow, Keras et Hugging Face Transformers.
 
-Deep Learning : Réseaux de neurones (CNN, RNN), traitement du langage naturel (NLP)
+Je maîtrise le français couramment et j’ai un niveau intermédiaire en anglais. Mes forces incluent l’esprit d’équipe, la communication, le leadership et l’écoute.
 
-Computer Vision : YOLO, DeepSort
+Lauréat du Prix d’excellence du Président du Faso pour avoir été 3ᵉ au niveau national au Baccalauréat, j’ai également obtenu le 2ᵉ prix aux Olympiades de Mathématiques.
 
-Frameworks : scikit-learn, TensorFlow, Keras, Transformers (Hugging Face)
-
-Soft Skills
-
-Langues : Français (courant), Anglais (intermédiaire)
-
-Leadership, Communication, Travail d'équipe, Écoute active
-
-Expériences
-
-Juin - Août 2024 (Stage de fin de 1ère année) : Développement de solutions d’agriculture intelligente
-
-Conception d’un modèle de machine learning pour l’aide à la décision d’irrigation
-
-Développement d’un modèle deep learning pour la détection de maladies des plantes
-
-Création d’une application mobile IoT pour le monitoring des données agricoles
-
-Projets Académiques
-
-Détection et reconnaissance de composants électroniques
-
-Utilisation de YOLO pour la détection
-
-Re-entraînement sur un dataset de composants
-
-Fine-tuning du modèle
-
-Suivi d’objets embarqué sur Raspberry Pi
-
-Entraînement d’un modèle de tracking avec YOLO et DeepSort
-
-Optimisation pour fonctionner sur ressources limitées
-
-Parallélisation et optimisation du code pour de meilleures performances
-
-Modèle de prédiction chimique dans l’acier
-
-Prédiction de la quantité d’aluminium via analyse spectrale
-
-Intégration d’un CRM dans le flux de travail
-
-Chatbot intelligent avec RAG et LLAMA pour portfolio personnel
-
-Mise en place d’un système RAG (Retrieval-Augmented Generation) basé sur un modèle LLAMA
-
-Intégration d’un index vectoriel pour la récupération contextuelle des données du CV
-
-Déploiement via une API FastAPI pour interaction fluide dans un portfolio en ligne
-
-Détection de sentiments sur des tweets avec BERT
-
-Utilisation du modèle BERT multilingue pour analyser des tweets en français
-
-Prétraitement des données textuelles, tokenisation et fine-tuning du modèle
-
-Classification des sentiments (positif, neutre, négatif) avec métriques de performance
-
-Certifications
-
-Matlab Onramp
-
-Machine Learning with Python
-
-TensorFlow for Deep Learning
-
-Deep Learning Fundamentals
-
-Distinctions
-
-Prix d’excellence du Président du Faso (2021) – 3ᵉ au niveau national au Baccalauréat
-
-2ᵉ prix aux Olympiades de Mathématiques (2018)
-
-Loisirs et Centres d’intérêt
-
-Lecture
-
-Musique : Piano et guitare
-
-Sport : Football, volleyball
-
-Bénévolat
-
+En dehors du cadre académique, je m’intéresse à la lecture, à la musique (piano et guitare), au sport (football, volleyball) et au bénévolat.
